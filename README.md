@@ -57,7 +57,7 @@ Demonstrating coding ability along with the effective use of cloud-based tools f
 
 * **Coding Practice:** Completed **Solve me First** challenge on HackerRank in python
 * **Cloud Collaboration:** Created and shared a “Digital Literacy Awareness Quiz” with classmates.
-* 🔗 **[Quiz]**
+* 🔗 **[Quiz](https://docs.google.com/forms/d/e/1FAIpQLSddxUZ48ppmMF8845zcDcNwNRylGu59qxNfSnkF3Lz1KH0tlg/viewform?usp=preview)**
 
  ### Task 4: Email Etiquette
 
